@@ -1,2 +1,4 @@
 # Unity - AI - Flocking
- Controls:
+ ## Controls:
+    Movement: WASD
+    Up and Down: E and Q
